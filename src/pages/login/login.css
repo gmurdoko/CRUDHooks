@@ -1,0 +1,23 @@
+.white {
+    color: white;
+}
+
+input.transparent-input {
+    background-color: transparent !important;
+    border: none !important;
+}
+
+div.transparent-bg {
+    background-color: rgba(0, 0, 0, 0.644) !important;
+    border: none !important;
+    /* padding: 30px; */
+}
+div.background {
+    background-image: url("../../files/img/josh-soto-truHgj5kdDA-unsplash.jpg");
+    height: 100vh;
+    width: 100%;
+    background-position: "center";
+    background-repeat: "no-repeat";
+    background-size: "cover";
+    /* opacity: 0.2; */
+}
